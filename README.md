@@ -1,6 +1,6 @@
 **This is a Tensorflow 2.0 implementation of the MADDPG algorithm. This work is completed by Bowei He(Buaa) and Alex Zhao(Umich). The code is largely based on the [original MADDPG implementation](https://github.com/openai/maddpg).** 
 
-*Work in progress*
+
 
 # Multi-Agent Deep Deterministic Policy Gradient (MADDPG)
 
